@@ -1,0 +1,161 @@
+nav ul li a {
+	background: orange;
+	color:#fff;
+	margin:10px;
+	font-size: 30px !important;
+	font-family: comic sans ms !important;
+}
+
+nav ul li a:hover {
+	color:#fff;
+	opacity: 1.5;
+	font-family: comic sans ms !important;
+}
+
+.nav-pills .nav-item.show .nav-link, .nav-pills .nav-link.active {
+    color: orange;
+    cursor: default;
+    background-color: #d9dceb5e;
+    font-family: comic sans ms !important;
+    
+}
+
+.nav-link.active {
+    color: orange;
+    cursor: default;
+    background-color: #ffffff;
+  	
+}
+
+head,body{
+	margin: 0;
+	padding: 0;
+	transition: cubic-bezier(0.785, 0.135, 0.15, 0.86) 3s; 
+}
+
+.contact-form {
+	width: 80%;
+	margin: 20px;
+	position: -webkit-sticky;
+	padding: 30px 40px;
+	box-sizing: border-box;
+	text-align: center;
+	background: #f1f1f1;
+	
+
+	border-radius:8px;
+	box-shadow: 0 0 20px #000000b3;
+
+}
+
+.text {
+	border: 1px solid gray;
+	margin: 8px 0;
+	padding: 12px 18px;
+	border-radius: 8px;
+}
+
+.text label {
+	display: block;
+	text-align: left;
+	color: #333333;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+.text input, .text textarea {
+	width: 100%;
+	border: none;
+	background: none;
+	outline: none;
+	font-size: 18px;
+	margin-top: 6px;
+
+}
+
+.btn {
+	display: block;
+	background: orange;
+	padding: 14px 0;;
+	color: white;
+	text-transform: uppercase;
+	cursor: pointer;
+	margin-top: 8px;
+	width: 100%;
+	border-radius: 5%;
+
+}
+
+.tab-pane  p, h3 {
+	font-family: comic sans ms !important;
+	font-size: 24px !important;
+	padding: 0 10%;
+	
+}
+
+
+.column {
+	float:left;
+	width: 50%;
+	
+	text-align: center;
+	list-style-type: none;
+	font-family: comic sans ms !important;
+	font-size: 24px !important;
+
+	padding: 0 5%;
+
+}
+
+.tab-pane ul li {
+	padding: 2%;
+	
+	list-style-type: none;
+	font-family: comic sans ms !important;
+	font-size: 24px !important;
+	
+	padding: 0 10%;
+}
+
+#edu-info  {
+	background: white;
+	opacity: 0.7;
+}
+
+
+.content  {
+	
+	background-color: white;
+	opacity: 0.7;
+  }
+
+  #maininfo {
+	background-color: white !important;
+	opacity: 0.7 !important;
+  }
+  
+
+#contact-info{
+	padding: 20px 0 0;
+}
+
+
+
+.fa {
+	padding:30px  !important;
+	font-size: 50px !important;
+	width: 50px ;
+	text-align: center ;
+	
+	
+  }
+  
+  .fa:hover {
+	  opacity: 0.7 !important;
+  }
+  
+
+
+ 
+ 
+  
