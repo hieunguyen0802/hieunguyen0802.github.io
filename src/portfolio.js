@@ -26,7 +26,7 @@ const projects = [
     name: 'Business Application Developer',
     description: 'My responsibilities are develop web app and support users. I write web application apps for internal use between departments within the company. The apps are designated to serve a wide range of users, from 2K - up to 10K. Sometimes I play multiple roles, being a Business Analyst, or even Project Manager for mid-size scope projects.',
     stack: ['Vietnam Australian Int\'l School','Nov 2020 - Present'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/hieunguyen0802',
     livePreview: 'https://employee.vas.edu.vn/',
   },
   {
@@ -83,7 +83,7 @@ const softSkill = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'hieunguyen0802@gmail.com',
+  email: 'hieu.h.t.nguyen@tcu.edu',
 }
 
 export { header, about, projects, skills, softSkill, contact }
